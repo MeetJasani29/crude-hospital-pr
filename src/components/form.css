@@ -1,0 +1,37 @@
+.form-title{
+    color: #25c1b3;
+    text-align: start;
+}
+.form-title h2 {
+    font-size: 40px;
+    margin: 10px 0;
+}
+hr{
+    background: #000000 !important;
+    padding: 1px 0;
+}
+.form-detail{
+    text-align: start;
+    color: #25c1b3;
+    font-weight: semibold !important;
+    
+}
+.form-select{
+    background-color: #25c1b3;
+}
+.form-label{
+    font-weight: 600;
+    font-size: 18px;
+}
+.form-detail input  {
+    color: #25c1b3;
+    padding: 8px 20px;
+    background-color: #359b9238;
+    border: 2px solid #25c1b3;
+}
+.button{
+    background-color: #097466 !important;
+}
+.form-control{
+    background-color: #359b9238 !important;
+}
